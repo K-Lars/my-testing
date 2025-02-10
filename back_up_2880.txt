@@ -1,0 +1,1 @@
+Commit 960 on 2024-02-26 23:04:13: Fixed an issue with permission checks
