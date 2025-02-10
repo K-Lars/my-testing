@@ -1,0 +1,1 @@
+Commit 968 on 2024-10-01 23:04:15: Updated UI labels for clarity
