@@ -1,0 +1,1 @@
+Commit 999 on 2025-02-07 23:04:19: Updated UI labels for clarity

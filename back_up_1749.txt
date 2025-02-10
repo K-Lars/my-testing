@@ -1,0 +1,1 @@
+Commit 583 on 2024-02-26 23:02:45: Fixed minor UI inconsistency
